@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/RegisterSummaryFunctionExample/Form1.cs) (VB: [Form1.vb](./VB/RegisterSummaryFunctionExample/Form1.vb))
+* [Program.cs](./CS/RegisterSummaryFunctionExample/Program.cs) (VB: [Program.vb](./VB/RegisterSummaryFunctionExample/Program.vb))
+<!-- default file list end -->
 # How to register and use a custom summary function
 
 
